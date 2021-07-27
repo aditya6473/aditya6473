@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">AIML Enthusiast, Deep learning aspirant/h3>
+<h3 align="center">AIML Enthusiast, Deep learning aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya6473&label=Profile%20views&color=0e75b6&style=flat" alt="aditya6473" /> </p>
 
