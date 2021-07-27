@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya6473&show_icons=true&locale=en" alt="aditya6473" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6473&" alt="aditya6473" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6473&"  alt="aditya6473" /></p>
 <b>show some ❤ by sharing and starring repo's</b>
